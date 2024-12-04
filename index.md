@@ -6,7 +6,9 @@
 
 Hello and welcome to this web space! It's meant to be filled with knick-knacks of thoughts and miscellaneous things I find odd and fascinating!
 
-![Hi1](assets/img/Hi1.png)
+<div align="center">
+  <img src="assets/img/Hi1.png" width="350" height="350">
+</div>
 
 My name is Grace, born in Montreal, grew up in Vancouver, and now living in Toronto. Currently, I am a PhD student in experimental psychology and this webpage is just another manifestation of my chronic procrastination.
 
