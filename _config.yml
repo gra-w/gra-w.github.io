@@ -1,6 +1,8 @@
 title: Grace Wang
 logo: /assets/img/logo.png
-description: Hello there!
+description: Hello there! 
+<a href="www.linkedin.com/in/-gracew">👔 LinkedIn</a>
+
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
