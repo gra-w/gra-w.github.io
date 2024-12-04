@@ -1,5 +1,5 @@
-title: This is a test title
-description: this is a description test
+title: Grace Wang
+description: Hello there!
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
