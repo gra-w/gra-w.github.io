@@ -1,5 +1,5 @@
 
-# About.
+# Other/Misc.
 
 Hello and welcome to this web space! It's meant to be filled with knick-knacks of thoughts and miscellaneous things I find odd and fascinating!
 
