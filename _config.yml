@@ -1,5 +1,10 @@
-title: This is a test title
-description: this is a description test
-remote_theme: pages-themes/minimal@v0.2.0
+title: Grace Wang
+logo: /assets/img/logo.png
+description: Hello there!
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-minimal
 plugins:
-- jekyll-remote-theme
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jemoji
